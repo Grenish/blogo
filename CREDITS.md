@@ -1,4 +1,4 @@
----
+
 
 # Credits
 
@@ -10,7 +10,7 @@ Icons and Fonts used in this application are sourced from the following platform
 - [Germania One by Google Fonts](https://fonts.google.com/specimen/Germania+One)
 - [Hello Bagest by Freedafonts](https://freedafonts.com/hello-bagest-font/)
 
----
+
 
 This credit page acknowledges the use of icons from external sources. For
 specific inquiries about these icons or their usage rights, please refer to the
